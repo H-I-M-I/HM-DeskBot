@@ -1,2 +1,2 @@
-# HM-DeskBot
+# DeskBot
 AI-Powered Personal Desktop Assistant
